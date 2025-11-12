@@ -1,6 +1,8 @@
 bilstm-5cls/
 distilbert-5cls/
 distilbert-5cls-final/
+deberta-5cls/
+deberta-5cls-final/
 GameReviewDataUS/
 Random.ipynb
 *.csv
