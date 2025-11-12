@@ -1,10 +1,5 @@
 Data/
 Model/
-bilstm-5cls/
-distilbert-5cls/
-distilbert-5cls-final/
-deberta-5cls/
-deberta-5cls-final/
-GameReviewDataUS/
+tmp_trainer/
 Random.ipynb
 *.csv
