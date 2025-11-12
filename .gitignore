@@ -1,3 +1,5 @@
+Data/
+Model/
 bilstm-5cls/
 distilbert-5cls/
 distilbert-5cls-final/
