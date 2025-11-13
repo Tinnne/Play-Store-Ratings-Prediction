@@ -1,5 +1,5 @@
 Data/
 Model/
 tmp_trainer/
+kt_bilstm/
 Random.ipynb
-*.csv
